@@ -506,6 +506,7 @@ div .light-box {
     margin: 100px 0;
   }
   .div-agr {
+    margin: 70px;
     width: 500px;
     height: 500px;
     display: flex;
